@@ -1,3 +1,8 @@
+// Uses express to integrate everything while handling the back end of the website.
+// html, css and javascript is used inside the express code.
+
+// Happy coding
+
 const express = require('express');
 const app = express();
 const path = require('path');
